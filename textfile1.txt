@@ -1,7 +1,8 @@
-Text.
+TextText
+
+Different text.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Pellentesque porta massa feugiat, malesuada ex ut, pellentesque augue.
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Pellentesque porta massa feugiat, malesuada ex ut, pellentesque augue.
